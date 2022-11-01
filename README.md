@@ -9,5 +9,5 @@ Observações importantes:
  não colocarei aqui), o código consiste em:
 um desempacotamento e a inicialização de uma Lista, tudo dentro do próprio Print
 
- -> Mas ainda assim, o código tem um raciocínio extremamente inteligente
+ -> Mas ainda assim, o código apresentado aqui tem um raciocínio extremamente inteligente para quem quer e precisa entender a lógica
  
